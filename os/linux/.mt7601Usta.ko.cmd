@@ -1,0 +1,1 @@
+cmd_/home/andy/XMWifiDri/os/linux/mt7601Usta.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-24-generic/scripts/module-common.lds --build-id  -o /home/andy/XMWifiDri/os/linux/mt7601Usta.ko /home/andy/XMWifiDri/os/linux/mt7601Usta.o /home/andy/XMWifiDri/os/linux/mt7601Usta.mod.o
